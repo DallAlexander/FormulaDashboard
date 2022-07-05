@@ -28,7 +28,7 @@
 Dieser Service wurde als Teil der Prüfungsleistung für die Veranstaltung IT-Management der Anwendungsentwicklung an der Westfälischen Hochschule von Jonas Fiener, Enrico Fröse, Arne Kottenhahn und Alexander Dall entwickelt.
 Im Zuge der Ausarbeitung haben wir uns für die Entwicklung eine Dashboards über Formel-E entschieden, das wichtige Kennzahlen über die Domänen Rennen, Fahrer, Teams und Rundenzeiten visualisiert. 
 ```
-   https://app.powerbi.com/links/BdoH4HftFG?ctid=6c89528e-0824-4e0e-ad98-cab16af8c189&pbi_source=linkShare
+   https://app.powerbi.com/links/8S15QWrRWe?ctid=6c89528e-0824-4e0e-ad98-cab16af8c189&pbi_source=linkShare
    ```
 
 ### Verwendete Programmiersprachen
